@@ -94,7 +94,8 @@ The system is designed using a modular approach where each function handles a sp
 ## 📊 Results and Discussion
 
 ### Presentation of Results
-> **Add screenshots or outputs below**
+![image]()
+> **Enters the program if password matches**
 
 
 ### Analysis of Results
