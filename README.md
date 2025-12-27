@@ -94,7 +94,7 @@ The system is designed using a modular approach where each function handles a sp
 ## 📊 Results and Discussion
 
 ### Presentation of Results
-![image]()
+![image](https://github.com/sagar-c-s/Student-information-management-system/blob/main/pr1.jpg?raw=true)
 > **Enters the program if password matches**
 
 
